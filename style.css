@@ -49,7 +49,7 @@ canvas {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #2196F3;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -64,7 +64,7 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #0b7dda;
 }
 
 #start-btn {
